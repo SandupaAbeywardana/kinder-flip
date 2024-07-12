@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Hairline.eot");
+  src: local("NuckleHairline"), local("Nuckle-Hairline"),
+    url("Nuckle-Hairline.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Hairline.woff2") format("woff2"),
+    url("Nuckle-Hairline.woff") format("woff"),
+    url("Nuckle-Hairline.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Medium.eot");
+  src: local("NuckleMedium"), local("Nuckle-Medium"),
+    url("Nuckle-Medium.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Medium.woff2") format("woff2"),
+    url("Nuckle-Medium.woff") format("woff"),
+    url("Nuckle-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Semibold.eot");
+  src: local("NuckleSemibold"), local("Nuckle-Semibold"),
+    url("Nuckle-Semibold.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Semibold.woff2") format("woff2"),
+    url("Nuckle-Semibold.woff") format("woff"),
+    url("Nuckle-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-ExtraLight.eot");
+  src: local("NuckleExtraLight"), local("Nuckle-ExtraLight"),
+    url("Nuckle-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-ExtraLight.woff2") format("woff2"),
+    url("Nuckle-ExtraLight.woff") format("woff"),
+    url("Nuckle-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Bold.eot");
+  src: local("NuckleBold"), local("Nuckle-Bold"),
+    url("Nuckle-Bold.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Bold.woff2") format("woff2"),
+    url("Nuckle-Bold.woff") format("woff"),
+    url("Nuckle-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Light.eot");
+  src: local("NuckleLight"), local("Nuckle-Light"),
+    url("Nuckle-Light.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Light.woff2") format("woff2"),
+    url("Nuckle-Light.woff") format("woff"),
+    url("Nuckle-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Thin.eot");
+  src: local("NuckleThin"), local("Nuckle-Thin"),
+    url("Nuckle-Thin.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Thin.woff2") format("woff2"),
+    url("Nuckle-Thin.woff") format("woff"),
+    url("Nuckle-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Nuckle";
+  src: url("Nuckle-Regular.eot");
+  src: local("NuckleRegular"), local("Nuckle-Regular"),
+    url("Nuckle-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Nuckle-Regular.woff2") format("woff2"),
+    url("Nuckle-Regular.woff") format("woff"),
+    url("Nuckle-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}

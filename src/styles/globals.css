@@ -1,0 +1,27 @@
+@import url("/fonts/nuckle/stylesheet.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css");
+
+* {
+  font-family: "Nuckle", sans-serif !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body::-webkit-scrollbar {
+  width: 7px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #6e6e6e;
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #bfbfbf;
+  /* border-radius: 10px; */
+  /* margin: 20px !important; */
+}
